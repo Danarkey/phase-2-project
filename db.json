@@ -1,3 +1,36 @@
 {
-    "favorites": []
+  "favourites": [
+    {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "type": "fire",
+      "stats": [
+        {
+          "name": "hp",
+          "value": 78
+        },
+        {
+          "name": "attack",
+          "value": 84
+        },
+        {
+          "name": "defense",
+          "value": 78
+        },
+        {
+          "name": "special-attack",
+          "value": 109
+        },
+        {
+          "name": "special-defense",
+          "value": 85
+        },
+        {
+          "name": "speed",
+          "value": 100
+        }
+      ]
+    }
+  ]
 }
